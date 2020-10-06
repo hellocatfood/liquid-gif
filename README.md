@@ -9,7 +9,9 @@ Each of these scripts takes an input (either user defined or a "randomly generat
 
 `liquid_input.sh` generates a liquid gif using an input image. 
 
-![liquid plasma](https://media.giphy.com/media/JUjUm7x5SNyVVVESw8/giphy.gif) ![liquid rainbow](https://media.giphy.com/media/mG8W8BqNYcBu0N1hI0/giphy.gif)
+![liquid plasma](https://media.giphy.com/media/JUjUm7x5SNyVVVESw8/giphy.gif) 
+
+![liquid rainbow](https://media.giphy.com/media/mG8W8BqNYcBu0N1hI0/giphy.gif)
 
 ## Dependencies
 
